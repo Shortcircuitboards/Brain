@@ -1,4 +1,4 @@
-# -Brain
+# -//Brain
 OSD PCB wit Sensors and usefull stuff for the FPV Rover
 
 
@@ -15,7 +15,7 @@ for the OSD i use the G-OSD GUI which is awseome and easy to handel !
 
 You can manually set up the Voltage Divider with the Potentiometer P1 and the output of the Currentsensor with P2, so you can easyily adjust it to exactly that value that you need.
 
-Pinout Legend:
+Pinout Legend (will be countinued later):
 1 = ESC1 PWM
 2 =
 3 = 
