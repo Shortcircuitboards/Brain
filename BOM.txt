@@ -1,0 +1,63 @@
+Partlist
+
+Exported from Brain_V0_1.brd at 12.01.2016 13:22:20
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part            Value            Package            Library                Position (mm)         Orientation
+
+
+AKKU1           XT-60            XT-60              RoboJackets-Connectors (29.845 75.565)       R90
+AKKU2           XT-60            XT-60              RoboJackets-Connectors (29.845 29.845)       R90
+C1              1nF              C0603K             resistor               (42.545 38.1)         R0
+C2              0,1uF            C0603K             resistor               (48.26 43.18)         R0
+C3              0,1uF            C0603K             resistor               (39.37 53.975)        R0
+C4              22pF             C0603K             rcl                    (36.83 36.195)        R180
+C5              22pF             C0603K             rcl                    (48.26 38.1)          R0
+C6              100nF            C0603K             rcl                    (62.23 52.07)         R0
+C7              100nF            C0603K             rcl                    (36.83 33.02)         R0
+C8              100nF            C0603K             rcl                    (55.88 36.83)         R180
+C9              220pF            C0603K             rcl                    (52.07 30.48)         R180
+C10             470nF            C1206              rcl                    (55.88 54.61)         R0
+C11             470nF            C1206              rcl                    (55.88 50.8)          R0
+C12             220pF            C0603K             rcl                    (59.69 31.75)         R90
+C13             100nF            C0603K             rcl                    (60.96 43.18)         R0
+C14             330uF            153CLV-0807        rcl                    (58.42 74.93)         R180
+C15             100nF            C0603K             rcl                    (52.07 33.02)         R180
+D1              1N4448W          SOD523             diode                  (38.1 40.64)          R0
+D2                               DO-214AC           diode                  (57.15 59.69)         R180
+IC1             MEGA8-AI         TQFP32-08          atmel                  (40.64 60.96)         R0
+IC2             TINY13-20SSU     8S1                atmel                  (39.37 27.94)         R90
+L1              330uH            POWER-CHOKE_WE-TPC rcl                    (48.26 76.2)          R90
+LADEN           XT-60            XT-60              RoboJackets-Connectors (3.175 49.53)         R0
+LED1                             CHIP-LED0603       led                    (43.18 76.2)          R0
+Q1              CSM-7X-DU        CSM-7X-DU          crystal 16 mhz               (26.035 37.465)       R180
+Q2              BC807-40SMD      SOT23-BEC          transistor-pnp         (62.23 66.04)         R0
+R1              2K               R0603              resistor               (39.37 51.435)        R0
+R2              R Errechnen !    R0603              resistor               (45.72 53.975)        R0
+R3              1K               R0603              rcl                    (33.655 43.815)       R0
+R4              15K              R0603              rcl                    (62.23 60.96)         R0
+R5              3K               R0603              rcl                    (33.655 41.275)       R0
+R6              1K               RTRIM3103          rcl                    (21.59 43.18)         R0
+R7              15K              R0603              rcl                    (42.545 34.925)       R180
+R8              1K               RTRIM3103          rcl                    (27.94 43.18)         R0
+R9              3K               R0603              rcl                    (55.88 46.99)         R0
+R10             5K6              R0603              rcl                    (55.88 39.37)         R0
+R11             1k               R0603              rcl                    (60.96 40.64)         R180
+R12             120R             R0603              rcl                    (62.23 54.61)         R0
+R13             180R             R0603              rcl                    (62.23 49.53)         R0
+R14             1K2              R0603              rcl                    (55.88 33.02)         R0
+R15             1k               R0603              rcl                    (43.18 71.12)         R270
+R16             1k5              R0603              rcl                    (55.88 29.21)         R0
+R17             100k             R0603              rcl                    (62.23 46.99)         R0
+R18             100k             R0603              rcl                    (55.88 43.18)         R0
+SW_1            PTR2             P2-38-17           testpad                (3.175 68.58)         R180
+T1              SMD300F          SMD050F            switch-raychem         (36.83 74.93)         R0
+U$1             REED-RELAIS      REED-RELAIS        				       (70.485 53.975)       R90
+U$2             IRLM2502         SOT23              				       (45.72 27.94)         R0
+U$3             I_SENSE_IC       SOIC8              				       (12.7 41.275)         R270
+U$4             ICSP_6P          ICSP_6P            				       (43.815 48.895)       R180
+U$5             IRLM2502         SOT23              				       (49.53 27.94)         R0
+VIDEO_OUT       OSD einschleifen JP1                jumper                 (55.88 64.77)         R0
