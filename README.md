@@ -11,7 +11,7 @@ The Development, Schematic and Software of the 3-Way Switch was done by JReise h
 The Development, Schematic and Software of the E-OSD was done by ?? Arrgh i dont know ^^
 
 For Setting it up You just need an USBASP to flash the OSD Firmware and the .HEX file of the AtTiny13 which is in use as an 3-Step Swicht (for flashing the pure .hex file i Use Burn-O-Mat) 
-Here is the software for the attiny13: http://jreise.de/RCUSB/Daten/2-Stufen-RC-Schalter.zip  all rights by JReise !!!
+Here is the software for the attiny13: http://jreise.de/RCUSB/Daten/2-Stufen-RC-Schalter.zip  all rights by JReise !!!  Since his page is just accessible over waybackmachine.com i Uploaded the neccessary hex file to flash the attiny13
 
 For the OSD i use the G-OSD GUI which is awseome and easy to handel !
 
